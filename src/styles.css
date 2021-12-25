@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.num-input {
+  padding: 10px;
+  font-size: 20px;
+  border: 2px solid #246172;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+.container {
+  width: fit-content;
+  border: 1px solid #246172;
+  border-radius: 10px;
+  padding: 30px;
+}
