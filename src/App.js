@@ -10,7 +10,7 @@ export default function App() {
     // console.log(e.target.value)
     const { value } = e.target;
     setQuery(value);
-    console.log(value);
+    console.log(value); //see in console
   };
 
   // console.log(handelChange)
